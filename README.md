@@ -5,7 +5,7 @@ Aquí puedes encontrar información sobre mis aficiones y proyectos. Me apasiona
 
 
 ## Habilidades
-- **Sistemas Operativos**: Windows Server, Ubuntu, Kali Blue, Kali Purple
+- 🐲 **Sistemas Operativos**: Windows Server, Ubuntu, Kali Blue, Kali Purple
 - **Bases de Datos**: Conocimientos básicos en MySQL Workbench
 - **Herramientas**: Familiaridad con herramientas de administración de sistemas y seguridad informática
 - **Educación y formación**: Diseño de programas educativos y liderazgo juvenil en el ámbito scout
