@@ -10,17 +10,21 @@ Aquí puedes encontrar información sobre mis aficiones y proyectos. Me apasiona
 - 🔨**Herramientas**: Familiaridad con herramientas de administración de sistemas y seguridad informática
 - ⚜️**Educación y formación**: Monitor de ocio y tiempo libre en los scouts
 ## Proyectos destacados
-### [Proyecto 1: ASO](https://github.com/IXKrieger/ASIR-ASO)
+### [Proyecto 1: Asociación Grupo Scout Alba 601](https://github.com/IXKrieger/Grupo-Scout-Alba-601)
+- **Descripción**: Página Web de la Asociación Grupo Scout Alba 601
+- **Tecnologías utilizadas**: Wordpress y VisualStudioCode.
+- 
+### [Proyecto 2: ASO](https://github.com/IXKrieger/ASIR-ASO)
 - **Descripción**: Practicas sobre la asignatura de ASO.
 - **Tecnologías utilizadas**: VirtualBox, VMWare, Windows Server, Ubuntu.
 
 
-### [Proyecto 2: GBD](https://github.com/IXKrieger/ASIR-GBD)
+### [Proyecto 3: GBD](https://github.com/IXKrieger/ASIR-GBD)
 - **Descripción**: Consultas, subconsultas, Modelos Entidad Relación.
 - **Tecnologías utilizadas**: MySQL Workbench.
 
 
-### [Proyecto 3: SAD](https://github.com/IXKrieger/ASIR-SAD)
+### [Proyecto 4: SAD](https://github.com/IXKrieger/ASIR-SAD)
 - **Descripción**: Practicas sobre la asignatura de SAD
 - **Tecnologías utilizadas**: Shodan.
 
